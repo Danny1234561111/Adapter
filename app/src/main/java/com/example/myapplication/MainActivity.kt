@@ -20,9 +20,9 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
         var name= resources.getStringArray(R.array.name).toMutableList()
-        var surname= resources.getStringArray(R.array.name).toMutableList()
-        name.toList().shuffled().toMutableList()
-        surname.toList().shuffled().toMutableList()
+        var surname= resources.getStringArray(R.array.surname).toMutableList()
+        name=name.toList().shuffled().toMutableList()
+        surname = surname.toList().shuffled().toMutableList()
         for (i in 0..name.size-1){
             people.add(name[i].toString()+" "+surname[i].toString())
         }

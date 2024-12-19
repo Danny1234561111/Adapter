@@ -2,9 +2,9 @@
     <string name="app_name" translatable="false">My Application</string>
     <string-array name="name">
         <item>Демид</item>
-        <item>Валеев</item>
-        <item>Новожонов</item>
-        <item>Олифиренко</item>
+        <item>Глеб</item>
+        <item>Николай</item>
+        <item>Максим</item>
         <item>Тетькин</item>
         <item>Вейдер</item>
         <item>Макарка</item>
@@ -12,9 +12,9 @@
         <item>Ок</item>
         <item>cut</item>
         <item>Демид</item>
-        <item>Валеев</item>
-        <item>Новожонов</item>
-        <item>Олифиренко</item>
+        <item>Глеб</item>
+        <item>Николай</item>
+        <item>Максим</item>
         <item>Тетькин</item>
         <item>Вейдер</item>
         <item>Макарка</item>
@@ -22,9 +22,9 @@
         <item>Ок</item>
         <item>cut</item>
         <item>Демид</item>
-        <item>Валеев</item>
-        <item>Новожонов</item>
-        <item>Олифиренко</item>
+        <item>Глеб</item>
+        <item>Николай</item>
+        <item>Максим</item>
         <item>Тетькин</item>
         <item>Вейдер</item>
         <item>Макарка</item>
@@ -32,11 +32,11 @@
         <item>Ок</item>
         <item>cut</item>
         <item>Демид</item>
-        <item>Валеев</item>
-        <item>Новожонов</item>
-        <item>Олифиренко</item>
-        <item>Тетькин</item>
-        <item>Вейдер</item>
+        <item>Глеб</item>
+        <item>Николай</item>
+        <item>Максим</item>
+        <item>Евгений</item>
+        <item>Дарт</item>
         <item>Макарка</item>
         <item>Павел</item>
         <item>Ок</item>
